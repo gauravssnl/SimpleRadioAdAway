@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleRadioAdAway</string>
+    <string name="description">SimpleRadio AdAway Xposed module which has been developed using the `Modern Xposed API` provided by LSPosed. Enjoy Ad free radio experience :)</string>
 </resources>
